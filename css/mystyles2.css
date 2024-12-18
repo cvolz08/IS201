@@ -1,0 +1,10 @@
+h1{
+    font-family: fantasy;
+}
+body {
+    background: url('https://media.istockphoto.com/id/824584008/photo/dock-on-lake-in-the-city-of-lakes-minneapolis.jpg?s=612x612&w=0&k=20&c=rV8k0WWjjlozrkYEr6kIVsFVJSudIdiTv6P8SddcIV8=') no-repeat center center;
+    background-size: cover;
+  }
+a{
+    color: white
+}

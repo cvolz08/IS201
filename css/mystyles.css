@@ -1,0 +1,37 @@
+body{
+    font-family: monospace;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url("../assets/img/bg.jpg");
+}
+.site-heading-lower{
+    font-family: monospace;
+}
+.mb-3{
+    font-family: monospace;
+}
+a{
+    font-family: monospace;
+}
+#mainNav{
+    background-color: rgb(79, 38, 131);
+}
+.cta{
+    background-color: black;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+h1{
+    font-family: fantasy;
+}
+.site-heading-upper{
+    position: absolute;
+    top: 20px; /* Adjust the value to move it higher */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%);
+    color: aqua;
+    font-size: 36px;
+    font-family: fantasy;
+}
+.footer {
+    background-color: rgba(255, 255, 255, 0);
+  }
+  
